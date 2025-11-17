@@ -1,0 +1,8 @@
+<sdf version='1.6'>
+  <world name='default'>
+    <include>
+      <uri>model://helicopter</uri>
+    </include>
+  </world>
+</sdf>
+
